@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b025a66e585bfa4f8b7e92ac052e025, type: 3}
+  m_Name: HouseInsula
+  m_EditorClassIdentifier: 
+  Name: StructureInsula
+  Description: A house is a building used as a dwelling for one or more families
+  DescriptionBuildingMenu: Can hold a family
+  Icon: {fileID: 21300000, guid: 247ff1f89150adb429033e3369903cd0, type: 3}
+  NextRing: {fileID: 0}
+  PlaceHolderObjectCorrect: {fileID: 5873104895579508090, guid: 172def8c8e53aba4e9ee3bb8d32149a2,
+    type: 3}
+  PlaceHolderObjectIncorrect: {fileID: 5873104895579508090, guid: 8872a1668c37cd34ca8757f785f42525,
+    type: 3}
+  ResourcesNeededForBuilding:
+  - TypeItemNeeded: 9
+    amountItem: 15

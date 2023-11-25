@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b025a66e585bfa4f8b7e92ac052e025, type: 3}
+  m_Name: Pottery
+  m_EditorClassIdentifier: 
+  Name: Pottery
+  Description: Creates bricks when is near water zones.
+  DescriptionBuildingMenu: Creates bricks when is near water zones.
+  Icon: {fileID: 21300000, guid: 16a9886b32afb3c4290acc0db54bccc9, type: 3}
+  NextRing: {fileID: 0}
+  PlaceHolderObjectCorrect: {fileID: 2343440394834199163, guid: 58f1f20d3090fab4d98ee4bec1bbcd9c,
+    type: 3}
+  PlaceHolderObjectIncorrect: {fileID: 2343440394834199163, guid: 430157c84b605aa41982b6eb6b89ed4a,
+    type: 3}
+  ResourcesNeededForBuilding:
+  - TypeItemNeeded: 9
+    amountItem: 10
+  - TypeItemNeeded: 6
+    amountItem: 10

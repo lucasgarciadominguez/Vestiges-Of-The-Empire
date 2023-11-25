@@ -1,0 +1,9 @@
+diff a/Assets/Scripts/Structures/Road/RoadFixer.cs b/Assets/Scripts/Structures/Road/RoadFixer.cs	(rejected hunks)
+@@ -169,7 +169,6 @@
+     {
+         if (result[0] == CellType.PivotRoad && result[2] == CellType.PivotRoad)
+         {
+-            placeBuilding.ModifyStructureModel(temporaryPosition, roadStraight, Quaternion.identity);
+             placeBuilding.ModifyStructureModel(temporaryPosition, roadStraightLeftRight, Quaternion.Euler(0, 90, 0));
+             return true;
+         }

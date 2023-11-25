@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b025a66e585bfa4f8b7e92ac052e025, type: 3}
+  m_Name: HouseUpperClass
+  m_EditorClassIdentifier: 
+  Name: StructureUpperClass
+  Description: A house is a building used as a dwelling for one or more families
+  DescriptionBuildingMenu: Can hold a family
+  Icon: {fileID: 21300000, guid: d4aca72ef36f2de4dac51ab3b7a89a70, type: 3}
+  NextRing: {fileID: 0}
+  PlaceHolderObjectCorrect: {fileID: 6610991177680474071, guid: 8840b338fd7546d48adbc8e8ab17b5c6,
+    type: 3}
+  PlaceHolderObjectIncorrect: {fileID: 6610991177680474071, guid: d8e4f6ca127eeb144b71242e4ae37edc,
+    type: 3}
+  ResourcesNeededForBuilding:
+  - TypeItemNeeded: 9
+    amountItem: 40
+  - TypeItemNeeded: 6
+    amountItem: 40
