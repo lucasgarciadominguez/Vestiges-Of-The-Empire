@@ -1,8 +1,11 @@
-# README
+# Vestiges Of The Empire - City Builder Game
 ---
-## City Builder Type Game
+## <a href="https://lucasgarcia002.itch.io/vestiges-of-the-empire"> Play now </a>
 
 <img src="./TitlesforREADME.png" width=50%>
+
+## Description
+Create and manage your own thriving city, ensuring your citizens’ well-being by meeting all their needs.
 
 > Inspired by other types of games such as such as the Tropic saga, Cities Skylines or the Imperivm saga.
 
